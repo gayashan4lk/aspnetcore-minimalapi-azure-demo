@@ -1,0 +1,6 @@
+@Synap.Api_HostAddress = http://localhost:5170
+
+GET {{Synap.Api_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
